@@ -1,0 +1,195 @@
+[
+ {
+   "id": 1,
+   "model": "HSDL-A8M",
+   "image": "HSDL-A8M.png",
+   "name": "Series H - Semi Automatic Door Lock With Finger Print + RFid + Passcode + Mechanical key",
+   "category": "Smart Door Lock",
+   "description": "Material: Plastic+Aluminum Alloy+Acrylic+Glass Panel Door Thickness: 40-120mm Size: 387*80*24mm Weight: 4kg/pcs Standard Mortise: 6068*24*240mm Using for wooden door, metal door, composite door 8 AA Alkaline Battery Color: Black"
+ },
+ {
+   "id": 2,
+   "model": "HSDL-81A9",
+   "image": "HSDL-81A9.png",
+   "name": "Series 1 - WiFi Smart Biometric Door Lock With App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+   "category": "Smart Door Lock",
+   "description": "Material: Plastic+Aluminum Alloy+Acrylic+Glass Panel Door Thickness: 40-120mm Size: 387*80*24mm Weight: 4kg/pcs Standard Mortise: 6068*24*240mm Using for wooden door, metal door, composite door 8 AA Alkaline Battery Color: Black"
+ },
+ {
+   "id": 3,
+   "model": "HSDL-81P",
+   "image": "HSDL-81P.png",
+   "name": "Series 1Pro - WiFi Smart Biometric Door Lock With App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+   "category": "Smart Door Lock",
+   "description": "Material: Aluminum Alloy+Acrylic+Glass Panel Door Thickness: 40-120mm Size: 387*80*24mm Weight: 5kg/pcs Standard Mortise: 6068*24*240mm Using for wooden door, metal door, composite door 8 AA Alkaline Battery Color: Black"
+ },
+ {
+   "id": 4,
+   "model": "HSDL-S91A4M",
+   "image": "HSDL-S91A4M.png",
+   "name": "Series 2 - WiFi Smart Biometric Door Lock With Camera And Screen + App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+   "category": "Smart Door Lock",
+   "description": "Materail: Aluminum Alloy Door thickness: 40-110mm  Using for wooden door metal door, composite door Weight: 6kg/pcs Standard Mortise: 6068*24*240mm 4200mAh Lithium-ion rechargeable battery Abnormal Locking Alarm Color: Grey"
+ },
+ {
+   "id": 5,
+   "model": "HSDL-SX5M",
+   "image": "HSDL-SX5M.png",
+   "name": "Series 2Pro - WiFi Smart Biometric Door Lock With App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+   "category": "Smart Door Lock",
+   "description": "Materail: Aluminum Alloy Door thickness: 40-110mm  using for wooden door metal door, composite door Weight: 6kg/pcs Standard Mortise: 6068*24*240mm 4200mAh Lithium-ion rechargeable battery Abnormal Locking Alarm Color: Golden"
+ },
+ {
+   "id": 6,
+   "model": "HSDL-91A91M",
+   "image": "HSDL-91A91M.png",
+   "name": "Series 3 - WiFi Smart Biometric Door Lock With Camera And Screen + App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+   "category": "Smart Door Lock",
+   "description": "Materail: Aluminum Alloy Door thickness: 40-110mm  using for wooden door metal door, composite door Weight: 6kg/pcs Standard Mortise: 6068*24*240mm 4200mAh Lithium-ion rechargeable battery Abnormal Locking Alarm Color: Grey"
+ },
+ {
+   "id": 7,
+   "model": "HSDL-LO-B",
+   "image": "HSDL-LO-B.png",
+   "name": "Lock battery for (HSDL-S91A4M , HSDL-91A91M)",
+   "category": "Smart Door Lock",
+   "description": "3200 mah , 7.4V input : 5V/2A"
+ },
+ {
+   "id": 8,
+   "model": "HSDL-G9AS",
+   "image": "HSDL-G9AS.png",
+   "name": "Series G - WiFi Smart Biometric Door Lock With App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+   "category": "Smart Door Lock",
+   "description": "Materail: Aluminum alloy Key&USB port Using for Glass door Weight: 3kg/pcs Power: 4 AA Alkaline Battery"
+ },
+ {
+   "id": 9,
+   "model": "HSDL-CD01",
+   "image": "HSDL-CD01.png",
+   "name": "Cabinet Fingerprint Lock for Bookcases",
+   "category": "Smart Door Lock",
+   "description": "Material : Aluminum + acrylic 1.Support up to 30 fingerprint. 2.Waterproof grade is IP65. 3.Quick recognition in one second. 3.After fully charged ,it can provide 3000 times lock&unlock operations."
+ },
+ {
+   "id": 10,
+   "model": "HSDL-CD02",
+   "image": "HSDL-CD02.png",
+   "name": "Cabinet Fingerprint Lock for Triple Drawers",
+   "category": "Smart Door Lock",
+   "description": "Material : Aluminum + acrylic 1.Support up to 30 fingerprint. 2.Waterproof grade is IP65. 3.Quick recognition in one second. 3.After fully charged ,it can provide 3000 times lock&unlock operations."
+ },
+ {
+   "id": 11,
+   "model": "HSDL-CD03",
+   "image": "HSDL-CD03.png",
+   "name": "Cabinet Fingerprint Lock for Drawers",
+   "category": "Smart Door Lock",
+   "description": "Material : Aluminum + acrylic 1.Support up to 30 fingerprint. 2.Waterproof grade is IP65. 3.Quick recognition in one second. 3.After fully charged ,it can provide 3000 times lock&unlock operations."
+ },
+ {
+   "id": 12,
+   "model": "HSDL-6068-ST",
+   "image": "HSDL-6068-ST.png",
+   "name": "6068 Mortise Stand",
+   "category": "Smart Door Lock",
+   "description": ""
+ },
+ {
+  "id": 13,
+  "model": "HSDL-A8M",
+  "image": "HSDL-A8M.png",
+  "name": "Series H - Semi Automatic Door Lock With Finger Print + RFid + Passcode + Mechanical key",
+  "category": "Smart Door Lock",
+  "description": "Material: Plastic+Aluminum Alloy+Acrylic+Glass Panel Door Thickness: 40-120mm Size: 387*80*24mm Weight: 4kg/pcs Standard Mortise: 6068*24*240mm Using for wooden door, metal door, composite door 8 AA Alkaline Battery Color: Black"
+},
+{
+  "id": 14,
+  "model": "HSDL-81A9",
+  "image": "HSDL-81A9.png",
+  "name": "Series 1 - WiFi Smart Biometric Door Lock With App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+  "category": "Smart Door Lock",
+  "description": "Material: Plastic+Aluminum Alloy+Acrylic+Glass Panel Door Thickness: 40-120mm Size: 387*80*24mm Weight: 4kg/pcs Standard Mortise: 6068*24*240mm Using for wooden door, metal door, composite door 8 AA Alkaline Battery Color: Black"
+},
+{
+  "id": 15,
+  "model": "HSDL-81P",
+  "image": "HSDL-81P.png",
+  "name": "Series 1Pro - WiFi Smart Biometric Door Lock With App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+  "category": "Smart Door Lock",
+  "description": "Material: Aluminum Alloy+Acrylic+Glass Panel Door Thickness: 40-120mm Size: 387*80*24mm Weight: 5kg/pcs Standard Mortise: 6068*24*240mm Using for wooden door, metal door, composite door 8 AA Alkaline Battery Color: Black"
+},
+{
+  "id": 16,
+  "model": "HSDL-S91A4M",
+  "image": "HSDL-S91A4M.png",
+  "name": "Series 2 - WiFi Smart Biometric Door Lock With Camera And Screen + App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+  "category": "Smart Door Lock",
+  "description": "Materail: Aluminum Alloy Door thickness: 40-110mm  Using for wooden door metal door, composite door Weight: 6kg/pcs Standard Mortise: 6068*24*240mm 4200mAh Lithium-ion rechargeable battery Abnormal Locking Alarm Color: Grey"
+},
+{
+  "id": 17,
+  "model": "HSDL-SX5M",
+  "image": "HSDL-SX5M.png",
+  "name": "Series 2Pro - WiFi Smart Biometric Door Lock With App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+  "category": "Smart Door Lock",
+  "description": "Materail: Aluminum Alloy Door thickness: 40-110mm  using for wooden door metal door, composite door Weight: 6kg/pcs Standard Mortise: 6068*24*240mm 4200mAh Lithium-ion rechargeable battery Abnormal Locking Alarm Color: Golden"
+},
+{
+  "id": 18,
+  "model": "HSDL-91A91M",
+  "image": "HSDL-91A91M.png",
+  "name": "Series 3 - WiFi Smart Biometric Door Lock With Camera And Screen + App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+  "category": "Smart",
+  "description": "Materail: Aluminum Alloy Door thickness: 40-110mm  using for wooden door metal door, composite door Weight: 6kg/pcs Standard Mortise: 6068*24*240mm 4200mAh Lithium-ion rechargeable battery Abnormal Locking Alarm Color: Grey"
+},
+{
+  "id": 19,
+  "model": "HSDL-LO-B",
+  "image": "HSDL-LO-B.png",
+  "name": "Lock battery for (HSDL-S91A4M , HSDL-91A91M)",
+  "category": "Smart Door Lock",
+  "description": "3200 mah , 7.4V input : 5V/2A"
+},
+{
+  "id": 20,
+  "model": "HSDL-G9AS",
+  "image": "HSDL-G9AS.png",
+  "name": "Series G - WiFi Smart Biometric Door Lock With App Support + Finger Print + RFid + Passcode + Mechanical key + OTP",
+  "category": "Smart",
+  "description": "Materail: Aluminum alloy Key&USB port Using for Glass door Weight: 3kg/pcs Power: 4 AA Alkaline Battery"
+},
+{
+  "id": 21,
+  "model": "HSDL-CD01",
+  "image": "HSDL-CD01.png",
+  "name": "Cabinet Fingerprint Lock for Bookcases",
+  "category": "Smart",
+  "description": "Material : Aluminum + acrylic 1.Support up to 30 fingerprint. 2.Waterproof grade is IP65. 3.Quick recognition in one second. 3.After fully charged ,it can provide 3000 times lock&unlock operations."
+},
+{
+  "id": 22,
+  "model": "HSDL-CD02",
+  "image": "HSDL-CD02.png",
+  "name": "Cabinet Fingerprint Lock for Triple Drawers",
+  "category": "Lock",
+  "description": "Material : Aluminum + acrylic 1.Support up to 30 fingerprint. 2.Waterproof grade is IP65. 3.Quick recognition in one second. 3.After fully charged ,it can provide 3000 times lock&unlock operations."
+},
+{
+  "id": 23,
+  "model": "HSDL-CD03",
+  "image": "HSDL-CD03.png",
+  "name": "Cabinet Fingerprint Lock for Drawers",
+  "category": "Lock",
+  "description": "Material : Aluminum + acrylic 1.Support up to 30 fingerprint. 2.Waterproof grade is IP65. 3.Quick recognition in one second. 3.After fully charged ,it can provide 3000 times lock&unlock operations."
+},
+{
+  "id": 24,
+  "model": "HSDL-6068-ST",
+  "image": "HSDL-6068-ST.png",
+  "name": "6068 Mortise Stand",
+  "category": "Lock",
+  "description": ""
+}
+ 
+]
